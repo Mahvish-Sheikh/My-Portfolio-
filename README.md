@@ -26,3 +26,13 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 
 ## 📂 Project Structure
+    │
+    ├── index.html
+    ├── style.css
+    │
+    ├── images/
+    │ └── profilePhoto.jpg
+    │
+    └── README.md
+
+    
